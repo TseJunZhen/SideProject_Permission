@@ -1,0 +1,39 @@
+<resources>
+    <!--<string name="文字資源名稱">文字資源</string>-->
+    <string name="app_name">ManagementAPP</string>
+    <string name="write_external_storage_denied">沒有寫入外部儲存設備授權</string>
+    <string name="title">標題</string>
+    <string name="enter_title">輸入標題</string>
+    <string name="content">內容</string>
+    <string name="enter_content">輸入內容</string>
+    <string name="about">這是Android Tutorial應用程式</string>
+
+    <!--<color name="顏色資源名稱">顏色資源</color>-->
+    <color name="light_grey">#CCCCCC</color>
+    <color name="grey">#AAAAAA</color>
+    <color name="divider_color">#DD999999</color>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- 加入邊界尺寸資源設定 -->
+    <dimen name="default_padding">6dp</dimen>
+    <dimen name="title_txt_size">24sp</dimen>
+    <dimen name="default_margin">2dp</dimen>
+
+
+    <!--<array name ="一般陣列資源名稱">-->
+        <!--<item>一個陣列資源元素</item>-->
+    <!--</array>-->
+
+    <!--<string-array name="文字陣列資源名稱">-->
+        <!--<item>一個陣列資源元素</item>-->
+    <!--</string-array>-->
+
+    <!--<integer-array name="數字陣列資源名稱">-->
+        <!--<item>1234567890</item>-->
+    <!--</integer-array>-->
+
+    <!--<style name="樣式">-->
+        <!--<item name="設定名稱">設定值</item>-->
+    <!--</style>-->
+</resources>
